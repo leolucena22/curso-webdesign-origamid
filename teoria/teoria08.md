@@ -86,6 +86,11 @@ ___
 - span: Serve para estruturarmos o conteúdo através do CSS. Ela possui características de um elemento em linha.
 - article e section: Tem a mesma função da div, porém possuem significado semântico.
 - header e footer: São elementos semênticos que servem para estruturar o documento. Existe ainda nav para a parte de navegação do site.
+- form: Formulários são usados para envio de dados ao servidor.
+  - Atributos:
+    - action: Página que será usada para processar.
+    - method: Forma de envio ou recebimento de dados, GET E POST.
+    - name: identificador únido do formulário
 ---
 refs: <br>
 https://www.w3schools.com/ <br>
